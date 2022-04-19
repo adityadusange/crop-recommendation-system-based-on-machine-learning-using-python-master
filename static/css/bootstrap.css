@@ -5537,6 +5537,7 @@ button.close {
   flex: 1 1 auto;
   padding: 1rem;
   font-size: medium;
+  font-weight: bold;
 }
 
 .modal-footer {
